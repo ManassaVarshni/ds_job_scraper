@@ -1,2 +1,3 @@
 # ds_salary_proj
-Data science salary prediction
+Data science salary scraper in python.
+
